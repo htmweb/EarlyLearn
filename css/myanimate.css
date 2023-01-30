@@ -1,0 +1,39 @@
+#btn1{
+    animation-name: animatebtn;
+	animation-duration:2s;
+	animation-iteration-count: 1;
+	animation-delay: 0.2s;
+	
+          
+}
+@keyframes animatebtn{
+	from{
+		
+		transform: translateY(50px);
+		opacity: 0;
+	}
+	to{
+		
+		transform: translateY(-0px);
+		opacity: 1;
+	}
+
+	
+}
+
+#btn2:hover{
+	animation-name: btnbuble;
+	animation-duration: 0.3s;
+	animation-iteration-count: infinite;
+}
+@keyframes btnbuble{
+	0%{
+		transform: rotate(5deg);
+	}
+	75%{
+		transform: rotate(-5deg);
+	}
+	100%{
+		transform: rotate(5deg);
+	}
+}

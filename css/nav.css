@@ -1,0 +1,37 @@
+.navbar{
+	width: 100%;
+	background-color: #ffffff;
+	z-index: 99;
+	margin: 0;
+}
+.navbar-brand{
+	color: #4169e1;
+	margin-left: 10px;
+	padding: 5px;
+}
+.navbar-toggler{
+	margin-right: 10px;
+	padding: 5px;
+	outline: none;
+}
+.navbar-toggler:focus{
+	border: 2px solid #4169e1;
+	box-shadow: none;
+	transition: 0.6s;
+}
+.nav-item a{
+	margin-left: 10px;
+	color: #4169e1;
+}
+.nav-link:focus{
+	text-decoration: none;
+	color: #4169e1;
+}
+.nav-link a:hover{
+	text-decoration: none;
+	color: #4169e1;
+}
+.navbar-brand a:hover{
+	text-decoration: none;
+	color: #4169e1;
+}

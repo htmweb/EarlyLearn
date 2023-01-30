@@ -1,0 +1,23 @@
+.imgsend{
+
+	max-width: 320px;
+	max-height: 300px;
+	border-radius: 10px;
+	margin: 0 auto;
+}
+.img_a{
+	text-decoration: none;
+}
+.msg{
+	max-width: 800px;
+	margin: 0 auto;
+	background-color: #FAF9F6;
+	padding: 10px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.title{
+	margin-top: 5px;
+	float: left;
+	color: #000000;
+}
