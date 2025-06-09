@@ -1,6 +1,4 @@
-# EarlyLearn
-
-## E learning LMS website.
+# E learning LMS website.
 
 ### This Learning Management System allows teachers to create and manage MCQ exams for students. Students can take these exams directly through the platform. Teachers can also post articles to the student wall for sharing information and updates, and upload video lessons to enhance learning.
 
